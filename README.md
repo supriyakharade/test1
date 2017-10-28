@@ -4,6 +4,7 @@ The program was developed using python and following are the instructions to run
 2. Install the lob libraries by running the following command on the terminal:
 
 	python step.py build
+	
 	python setup.py install
 3. Using the following command install the Google API Python Client for using the Google Civic API: 
 
